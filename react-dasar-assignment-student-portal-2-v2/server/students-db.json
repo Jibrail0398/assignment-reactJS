@@ -1,0 +1,36 @@
+{
+  "student": [
+    {
+      "id": "f9ea",
+      "fullname": "Person1",
+      "birthDate": "2010-10-10",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi"
+    },
+    {
+      "id": "018f",
+      "fullname": "Person2",
+      "birthDate": "2010-10-10",
+      "gender": "Female",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Manajemen"
+    },
+    {
+      "id": "9a93",
+      "fullname": "Person3",
+      "birthDate": "2002-05-20",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi"
+    },
+    {
+      "id": "2d00",
+      "fullname": "Henky",
+      "birthDate": "1995-11-14",
+      "gender": "Male",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Ekonomi"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+html{
+    height: 1000px;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #badff0;
+}
+
+.wrapper{
+    background-color: white;
+    width: 95%;
+    margin: auto;
+    border-radius: 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+header h1{
+    margin:20px 20px 0px 20px;
+}
+.profile{
+    display: flex;
+    margin: 20px 20px 20px 0px;
+    
+}
+
+.profile p{
+    margin-right: 20px;
+    font-size: 1.2rem;
+}
+
+img{
+    border-radius: 100%;
+}
+
+form{
+    padding: 50px;
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto ;
+    gap: 10px;
+
+    
+}
+
+form div{
+    display: flex;
+    flex-direction: column;
+}
+
+form input, form select{
+    margin-top: 15px;
+    padding: 5px;
+    font-size: 1rem;
+}
+
+form label{
+    font-weight: bold;
+    font-size: 1.2rem;
+
+}
+
+form input[type="submit"]{
+    margin-top: 20px;
+    justify-self: start;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+hr{
+    height: 1px;
+    background-color: black;
+}
+
+.table-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    margin: 0 auto;
+    margin-left: 10px ;
+    width: 90%;
+    padding-bottom: 30px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+thead{
+    background-color: blue;
+    color: white;
+    
+}
+tbody tr td{
+    padding-top: 5px;
+}
+
+tbody tr:nth-child(odd){
+    background-color: grey;
+    color: white;
+}
+
+hr,table{
+    margin: 20px 20px;
+
+}
+
+.delete-btn{
+    background-color: transparent;
+    border: none;
+}
+
+.delete-icon{
+    width: 35px;
+}
+.delete-icon:active{
+    width: 20px;
+}
+
+
+
+
+

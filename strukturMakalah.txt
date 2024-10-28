@@ -1,0 +1,33 @@
+-Cover
+-Kata Pengantar
+-Daftar isi
+-Bab I Pendahuluan
+    -Latar Belakang
+    -Rumusan Masalah
+    -Tujuan Penulisan
+-Bab II Pembahasan
+    -Definisi Memory dalam Sistem Komputer
+    -Peran Memory dalam Arsitektur Komputer
+    -Jenis-Jenis Memory
+        -Perbandingan Memory Volatile dan Non-Volatile (Kasih penjelasan perbedaan secara umum memory volatile dan memory non-volatile)
+            -Memory Volatile
+                -Pengertian
+                -Contoh Memory Volatile
+                    -Flip-Flop
+                    -Register
+                    -RAM
+
+            -Memory Non Volatile 
+                -Pengertian
+                -ROM
+                -PROM
+                -EPROM
+                -EEPROM
+                -Flash Memory
+                -Hardisk dan SSD
+    -Masa Depan Teknologi Memory
+    -Keamanan Data pada Memory (Opsional)
+-Bab III Penutup
+    -Saran
+    -Kesimpulan
+-Daftar Pustaka

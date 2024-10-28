@@ -1,0 +1,234 @@
+{
+  "student": [
+    {
+      "fullname": "Anshori Anwar Sabari",
+      "address": "Jakarta, Indonesia",
+      "phoneNumber": "+6289876543210",
+      "birthDate": "1998-08-21",
+      "gender": "Male",
+      "programStudy": "Arsitektur",
+      "faculty": "Fakultas Teknik",
+      "id": "2"
+    },
+    {
+      "id": "4",
+      "fullname": "Sarah Tan Sam",
+      "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+      "address": "Jakarta, Indonesia",
+      "birthDate": "1994-11-12",
+      "gender": "Female",
+      "phoneNumber": "+6289999999999",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Publik"
+    },
+    {
+      "fullname": "Ahmad Sabullah",
+      "address": "Karawang, Indonesia",
+      "phoneNumber": "+6287777777777",
+      "birthDate": "1997-06-28",
+      "gender": "Male",
+      "programStudy": "Informatika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "5"
+    },
+    {
+      "fullname": "Lisa Wong",
+      "address": "Surabaya, Indonesia",
+      "phoneNumber": "+6281111111111",
+      "birthDate": "1996-09-02",
+      "gender": "Female",
+      "programStudy": "Matematika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "6"
+    },
+    {
+      "fullname": "Rina Nose",
+      "address": "Medan, Indonesia",
+      "phoneNumber": "+6286666666666",
+      "birthDate": "1997-11-30",
+      "gender": "Female",
+      "programStudy": "Teknik Sipil",
+      "faculty": "Fakultas Teknik",
+      "id": "10"
+    },
+    {
+      "fullname": "Andre Taulany",
+      "address": "Karawang, Indonesia",
+      "phoneNumber": "+6287777777771",
+      "birthDate": "1999-02-18",
+      "gender": "Male",
+      "programStudy": "Informatika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "11"
+    },
+    {
+      "fullname": "Dewi Susanti",
+      "address": "Jakarta, Indonesia",
+      "phoneNumber": "+6288888888888",
+      "birthDate": "1995-06-13",
+      "gender": "Female",
+      "programStudy": "Informatika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "12"
+    },
+    {
+      "fullname": "Rudi Setiawan juliansyah",
+      "address": "Bandung, Indonesia",
+      "phoneNumber": "+6289999999999",
+      "birthDate": "1993-03-09",
+      "gender": "Male",
+      "programStudy": "Fisika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "13"
+    },
+    {
+      "fullname": "Lina Hartati",
+      "address": "Yogyakarta, Indonesia",
+      "phoneNumber": "+6281010101010",
+      "birthDate": "1994-08-05",
+      "gender": "Female",
+      "programStudy": "Teknik Sipil",
+      "faculty": "Fakultas Teknik",
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "fullname": "Hendro Wijaya",
+      "profilePicture": "https://randomuser.me/api/portraits/men/15.jpg",
+      "address": "Medan, Indonesia",
+      "birthDate": "1997-01-22",
+      "gender": "Male",
+      "phoneNumber": "+6281212121212",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Bisnis"
+    },
+    {
+      "id": "16",
+      "fullname": "Yulia Cahyani",
+      "profilePicture": "https://randomuser.me/api/portraits/women/16.jpg",
+      "address": "Surabaya, Indonesia",
+      "birthDate": "1996-04-17",
+      "gender": "Female",
+      "phoneNumber": "+6281313131313",
+      "faculty": "Fakultas Teknik",
+      "programStudy": "Teknik Sipil"
+    },
+    {
+      "id": "17",
+      "fullname": "Tono Saputra",
+      "profilePicture": "https://randomuser.me/api/portraits/men/17.jpg",
+      "address": "Jakarta, Indonesia",
+      "birthDate": "1995-10-11",
+      "gender": "Male",
+      "phoneNumber": "+6281414141414",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika"
+    },
+    {
+      "id": "18",
+      "fullname": "Nina Wahyuni",
+      "profilePicture": "https://randomuser.me/api/portraits/women/18.jpg",
+      "address": "Bandung, Indonesia",
+      "birthDate": "1993-05-27",
+      "gender": "Female",
+      "phoneNumber": "+6281515151515",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Matematika"
+    },
+    {
+      "fullname": "Arief Kurniawan",
+      "address": "Yogyakarta, Indonesia",
+      "phoneNumber": "+6281616161616",
+      "birthDate": "1994-12-03",
+      "gender": "Male",
+      "programStudy": "Informatika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "19"
+    },
+    {
+      "id": "20",
+      "fullname": "Rika Setyawati",
+      "profilePicture": "https://randomuser.me/api/portraits/women/20.jpg",
+      "address": "Medan, Indonesia",
+      "birthDate": "1997-07-20",
+      "gender": "Female",
+      "phoneNumber": "+6281717171717",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Publik"
+    },
+    {
+      "fullname": "Rina Susanti Susilo",
+      "address": "Surabaya, Indonesia",
+      "phoneNumber": "+6281919191919",
+      "birthDate": "1995-02-11",
+      "gender": "Female",
+      "programStudy": "Akuntansi",
+      "faculty": "Fakultas Ekonomi",
+      "id": "22"
+    },
+    {
+      "id": "23",
+      "fullname": "Budi Setiawan",
+      "profilePicture": "https://randomuser.me/api/portraits/men/23.jpg",
+      "address": "Bandung, Indonesia",
+      "birthDate": "1993-09-06",
+      "gender": "Male",
+      "phoneNumber": "+6282020202020",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Publik"
+    },
+    {
+      "id": "24",
+      "fullname": "Sari Rahmawati",
+      "profilePicture": "https://randomuser.me/api/portraits/women/24.jpg",
+      "address": "Yogyakarta, Indonesia",
+      "birthDate": "1994-04-02",
+      "gender": "Female",
+      "phoneNumber": "+6282121212121",
+      "faculty": "Fakultas Ekonomi",
+      "programStudy": "Akuntansi"
+    },
+    {
+      "id": "25",
+      "fullname": "Eko Setiawan",
+      "profilePicture": "https://randomuser.me/api/portraits/men/25.jpg",
+      "address": "Medan, Indonesia",
+      "birthDate": "1997-11-27",
+      "gender": "Male",
+      "phoneNumber": "+6282222222222",
+      "faculty": "Fakultas Ilmu Sosial dan Politik",
+      "programStudy": "Administrasi Bisnis"
+    },
+    {
+      "fullname": "Rini ",
+      "address": "Surabaya, Indonesia",
+      "phoneNumber": "+6282323232323",
+      "birthDate": "1996-02-21",
+      "gender": "Female",
+      "programStudy": "Fisika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "26"
+    },
+    {
+      "fullname": "Muhammad Jibrail Natadilaga",
+      "address": "Karawang, Indonesia",
+      "phoneNumber": "085886743049",
+      "birthDate": "2002-05-20",
+      "gender": "Male",
+      "programStudy": "Informatika",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "id": "3b7f"
+    },
+    {
+      "id": "2a64",
+      "fullname": "Annisa Azzahra",
+      "profilePicture": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fkelasanimasi.com%2Falasan-kenapa-nezuko-kamado-menjadi-waifu-populer%2F&psig=AOvVaw3f8-ruyOp9EmjwEfFAaHji&ust=1729987272601000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCG__jeqokDFQAAAAAdAAAAABAE",
+      "address": "Karawang, Indonesia",
+      "birthDate": "2004-04-14",
+      "gender": "Female",
+      "phoneNumber": "0856888",
+      "faculty": "Fakultas Teknologi Informasi dan Sains",
+      "programStudy": "Informatika"
+    }
+  ]
+}
